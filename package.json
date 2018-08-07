@@ -1,0 +1,21 @@
+{
+  "name": "mern_to_do_list",
+  "version": "1.0.0",
+  "description": "To do list built with MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "Matthew Wright",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "concurrently": "^3.6.1",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
