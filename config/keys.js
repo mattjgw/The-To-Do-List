@@ -1,3 +1,3 @@
 module.exports = {
-	mongoURI: '' // Not for Github
+	mongoURI: '' // Not form Github
 };
